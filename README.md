@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some quick links:
+
+- [`pypi.org/project/apigeecli/`](https://pypi.org/project/apigeecli/)
+- [`pypi.org/project/multitool/`](https://pypi.org/project/multitool)
+- [`hub.docker.com/r/darumatic/apigee-cicd`](https://hub.docker.com/r/darumatic/apigee-cicd)
+- [`hub.docker.com/r/darumatic/apigee`](https://hub.docker.com/r/darumatic/apigee)
+
+📫 How to reach me: matthew@darumatic.com
