@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a Software Engineer working in DevOps. Most of my GitHub projects are private, but I actively maintain a few public Apigee projects that I worked on during my time at [**Darumatic**](https://github.com/darumatic). Additionally, I have forks of those projects as well. I plan to clean up those projects and make necessary changes to support existing clients before eventually deprecating and archiving them. Please refer to [**Darumatic's**](https://github.com/darumatic) GitHub page to see more of their projects. By searching for "apigee" on their page, you should find some of my projects.
 <!--
 **mdelotavo/mdelotavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
