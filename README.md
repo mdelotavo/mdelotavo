@@ -10,7 +10,7 @@ Python packages: https://pypi.org/user/mdelotavo/
 
 - **[apigeecli](https://pypi.org/project/apigeecli/)**: User-friendly wrapper for Apigee Edge admin APIs  
   - Stable: `<=0.53.11`
-  - Maintenance-only: `>=0.54`
+  - Maintenance-only: `>=0.54.0`
   - If you encounter any broken versions, please report them via the [Forked](https://github.com/mdelotavo/apigee-cli) repository, thanks.
 
 ## Useful Snippets
